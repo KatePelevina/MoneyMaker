@@ -354,7 +354,7 @@ ul {
 }
 
 .section__ticket-content {
-  margin-top: -50px;
+  margin-top: 40px;
 }
 .ticket {
     border-radius: 10px;
@@ -376,7 +376,8 @@ ul {
     border-radius: 10px;
 }
 .ticket__content-button {
-    margin-top: 10px;
+    margin-top: 40px;
+    display: block;
 }
 
 .ticket__content-link {
