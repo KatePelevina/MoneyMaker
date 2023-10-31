@@ -812,7 +812,9 @@ body::after {
     .product__modules-number {
         display: none;
     }
-
+    .footer__content {
+        display: block;
+    }
 
 
 
