@@ -810,7 +810,9 @@ body::after {
         text-align: center;
         margin-bottom: 10px;
     }
-}
+    .product__modules-number {
+        display: none;
+    }
 
 
 
