@@ -215,7 +215,7 @@ section {
 .product {
     position: relative;
 }
-.video__product-logo {
+.product-logo {
     margin: 0 auto;
     width: 400px;
     margin-top: -40px;
@@ -814,6 +814,9 @@ body::after {
     }
     .footer__content {
         display: block;
+    }
+    .product-logo {
+        width: 80vw;
     }
 
 
