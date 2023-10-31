@@ -215,7 +215,7 @@ section {
 .product {
     position: relative;
 }
-.product-logo {
+.video__product-logo {
     margin: 0 auto;
     width: 400px;
     margin-top: -40px;
