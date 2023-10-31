@@ -916,6 +916,9 @@ body::after {
     .about__content-titles, .about__content-title {
       text-align: center;
     }
+    .section__ticket-content {
+      width: 80vw;
+    }
 }
 
 
