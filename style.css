@@ -883,6 +883,9 @@ body::after {
 /*     .first_page {
       width: 70vw;
     } */
+    .first_page__image {
+         width: 70vw;
+    }
     .first_page__title {
        font-size: 80px;
        margin-bottom: 0px;
