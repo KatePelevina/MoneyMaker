@@ -869,7 +869,7 @@ body::after {
     }
     .about {
       margin-bottom: 100px;
-      width: 100%;
+      width: 90%;
     }
     .about__content-title {
       font-size: 30px;
