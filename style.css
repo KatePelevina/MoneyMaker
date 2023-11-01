@@ -15,6 +15,7 @@ body {
 }
 a, a:visited {
     text-decoration: none;
+    color: #fff;
 }
 ul {
   list-style: none;
