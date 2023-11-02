@@ -984,6 +984,9 @@ body::after {
         flex-direction: column;
         align-items: center;
       }
+    .stars__items-content {
+         text-align: center;
+    }
 }
 
 @media (max-width: 600px) {
