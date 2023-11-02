@@ -1081,6 +1081,7 @@ body::after {
     .questions {
         max-width: 90vw;
         margin: 0 auto;
+        margin-bottom: 100px;
     }
    
    
