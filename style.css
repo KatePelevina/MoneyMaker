@@ -913,8 +913,13 @@ body::after {
     .container {
         max-width: 800px;
     }
-    .first_page {
+/*     .first_page {
       width: 70vw;
+    } */
+    .first_page__image {
+        margin: 0 auto;
+        text-align: center;
+        width: 60%;
     }
     .first_page__title {
        font-size: 80px;
